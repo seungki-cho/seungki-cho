@@ -7,5 +7,5 @@
 - 국민대학교 정보보안암호수학과 (2018.03 ~ 2023.08)
 
 ### 프로젝트
-- **Dayeng** 매일의 영어 질문을 답하는 다이어리 앱 [[Github](https://github.com/team-dayeng/Dayeng)]
-- **아차 - 땅따먹기 산책** 위치기반 건물 땅따먹기 게임 앱 [[Github](https://github.com/boostcampwm-2022/iOS08_Acha)]
+- **Dayeng** 매일의 영어 질문을 답하는 다이어리 앱 [[Github](https://github.com/team-dayeng/Dayeng)] (2023.01 ~ )
+- **아차 - 땅따먹기 산책** 위치기반 건물 땅따먹기 게임 앱 [[Github](https://github.com/boostcampwm-2022/iOS08_Acha)] (2022.11 ~ 2022.12)
