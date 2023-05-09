@@ -8,4 +8,4 @@
 
 ### 프로젝트
 - **Dayeng** 매일 영어 질문을 답하는 다이어리 앱 [[Github](https://github.com/team-dayeng/Dayeng)] (2023.01 ~ )
-- **아차 - 땅따먹기 산책** 위치기반 건물 땅따먹기 게임 앱 [[Github](https://github.com/boostcampwm-2022/iOS08_Acha)] (2022.11 ~ 2022.12)
+- **아차 - 땅따먹기 산책** 위치기반 건물 땅따먹기 게임 앱 [[Github](https://github.com/boostcampwm-2022/iOS08_Acha)] [[Appstore](https://apps.apple.com/kr/app/dayeng/id1671113779)] (2022.11 ~ 2022.12)
