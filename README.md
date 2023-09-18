@@ -2,6 +2,7 @@
 <a href="https://velog.io/@csk"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ### 과거
+- 현대자동차그룹 <소프티어 부트캠프 2기> (23.07 ~ 23.08)
 - 네이버 커넥트재단 <부스트캠프 웹·모바일 7기> (2022.08 ~ 2022.12)
 - 국민대학교 정보보안암호수학과 (2018.03 ~ 2023.08)
 
