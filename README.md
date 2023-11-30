@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://velog.io/@csk"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 
 ### 과거
 - 현대자동차그룹 <소프티어 부트캠프 2기> (23.07 ~ 23.08)
